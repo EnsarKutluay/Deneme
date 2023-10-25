@@ -1,0 +1,2 @@
+# Deneme
+Kodlama öğrenmeye çalısıyorum
