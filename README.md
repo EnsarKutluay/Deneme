@@ -1,1 +1,1 @@
-print("hello my names ensar Im I am studying and I work as a software developer")
+.
