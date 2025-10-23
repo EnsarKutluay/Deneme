@@ -1,2 +1,1 @@
-# Deneme
-Kodlama öğrenmeye çalısıyorum
+print("hello my names ensar I'm I am studying and I work as a software developer")
